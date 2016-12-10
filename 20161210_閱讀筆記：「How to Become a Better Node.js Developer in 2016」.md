@@ -22,18 +22,20 @@ open-source方面有可以試試看這些工具`Zabbix`、`Collectd`、`ElasticS
 *你的資料要存多久？
 ```   
 
-
 你可能會需要用到`Redis`、如果有資料結構，你能考慮`PostgreSQL`、如果你使用SQL來配合Node.js開發那`knex`也是個方向．  
-##8.採用語意化版本(Semantic Versioning)  
+
+##8.採用語意化版本(Semantic Versioning)    
 
 >版本格式：主版號.次版號.修訂號，版號遞增規則如下：
 >>主版號：當你做了不相容的 API 修改，
 >>次版號：當你做了向下相容的功能性新增，
 >>修訂號：當你做了向下相容的問題修正。
->>>先行版號及版本編譯資訊可以加到「主版號.次版號.修訂號」的後面，作為延伸。
+>>>先行版號及版本編譯資訊可以加到「主版號.次版號.修訂號」的後面，作為延伸。  
+
+
 可以利用`semantic-release`來發佈你的JavaScript modules．
 ##9.Keep up    
-這些事很好的JavaScript資訊來源，訂閱吧！
+這些是很好的JavaScript資訊來源，訂閱吧！
 ```
 *Node.js Weekly Newsletter
 *Microservice Weekly Newsletter
