@@ -1,5 +1,6 @@
 
- # 1.執行模式有兩種  
+
+#1.執行模式有兩種  
  
  一般模式跟test模式，test模式能調用一些function
  
@@ -34,7 +35,7 @@ casper.run();
  ```
  
  # 2.顯示錯誤訊息與Log
-
+==========
  一般模式時，在create中加入相關參數．並且可以設定相關訊息的顏色
  ```js
  var casper = require('casper').create({ 
