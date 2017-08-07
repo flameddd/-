@@ -4,3 +4,8 @@
 
 ## WebGL
 這個我延伸過去有幫助嗎？
+
+## functional programing
+這個感覺比較有幫助！  
+
+## react ES6 這些必備
