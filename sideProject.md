@@ -9,3 +9,7 @@
 這個感覺比較有幫助！  
 
 ## react ES6 這些必備
+
+# 2017/08/21 
+reactiveX 似乎沒有熱門的 boilerplate ，拿目前用的`react-boilerplate`這個來整併似乎不錯！ 先把原本的 saga 改成 reactiveX 的功能？
+這個有沒有辦法做 SEO ？
